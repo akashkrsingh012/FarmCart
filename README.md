@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**FarmFlo** is a **Business-to-Consumer (B2C)** marketplace designed to empower farmers by providing direct access to consumers.
+**Farmcart** is a **Business-to-Consumer (B2C)** marketplace designed to empower farmers by providing direct access to consumers.
 
 The platform eliminates intermediaries, reduces commission costs, and ensures transparent pricing. Farmers can list products, manage inventory, and handle orders, while consumers can browse products and make secure purchases.
 
@@ -79,8 +79,8 @@ Make sure the following are installed:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/sktigpta/Farm-floo.git
-cd Farm-floo
+git clone https://github.com/akashkrsingh012/Farmcart.git
+cd farmCart
 ```
 
 ---
