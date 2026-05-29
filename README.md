@@ -229,8 +229,8 @@ This project is licensed under the **MIT License**.
 
 For queries or suggestions:
 
-📧 **Email:** [mdgalibashraf4@gmail.com](mailto:mdgalibashraf4@gmail.com)
-💻 **GitHub Repository:** https://github.com/galib2005/FarmCart
+📧 **Email:** [akashkrsingh012@gmail.com](mailto:akashkrsingh012@gmail.com)
+💻 **GitHub Repository:** https://github.com/akashkrsingh012/FarmCart
 
 ---
 
